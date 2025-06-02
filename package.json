@@ -1,0 +1,21 @@
+{
+  "name": "NT EXHAUST - NEXY AI AUTO BOT",
+  "version": "1.0.0",
+  "description": "NEXY AI Auto Bot Daily Task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cfonts": "^3.3.0",
+    "gradient-string": "^2.0.2",
+    "chalk": "^5.3.0",
+    "https-proxy-agent": "^7.0.5",
+    "socks-proxy-agent": "^8.0.4",
+    "progress": "^2.0.3",
+    "ora": "^8.1.0",
+    "boxen": "^7.1.1"
+  }
+}
